@@ -17,7 +17,7 @@ public class Gierka {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Game game = new Game("Ciężka grypsera",500,500);
+        Game game = new Game("The Game",500,500);
         game.start();
     }
     
